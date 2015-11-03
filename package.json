@@ -18,5 +18,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tchgp/NodejsTypescript/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
