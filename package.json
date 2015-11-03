@@ -1,0 +1,22 @@
+{
+  "name": "NodejsTypescript",
+  "version": "0.0.0",
+  "description": "Заготовка проекта на Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tchgp/NodejsTypescript.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Typescript"
+  ],
+  "author": "Grigory Tchipoura <tehgp@tut.by>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tchgp/NodejsTypescript/issues"
+  }
+}
