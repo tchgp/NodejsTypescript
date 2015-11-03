@@ -20,6 +20,7 @@
     "url": "https://github.com/tchgp/NodejsTypescript/issues"
   },
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.2"
   }
 }
