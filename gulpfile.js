@@ -16,5 +16,5 @@ gulp.task('tsc:commonjs', function () {
 
 gulp.task('watch', function(){
   // Наблюдение за .ts файлами
-  gulp.watch('src/**/*.ts', ['tsd:commonjs']);
+  gulp.watch('src/**/*.ts', ['tsc:commonjs']);
 });
